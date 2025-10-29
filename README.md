@@ -1,5 +1,7 @@
 # Service Hub (Books • Weather • Recipes • Earthquakes)
 
+Live Demo-https://smart-service-hub-8uwy.onrender.com
+
 A professional multi-tool React application featuring four services under a unified design system and shared header:
 
 - Book Finder: Search books via Open Library API
